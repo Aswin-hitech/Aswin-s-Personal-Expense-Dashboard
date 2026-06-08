@@ -1,0 +1,103 @@
+Date,Category,Description,Amount,Location,Balance,WalletRecharge,PaymentMode,DayType,DayName,Month,WeekNo,Priority,Necessity,ExpenseLevel,RunningExpense,DailyExpense,SavingsOpportunity,ExpenseBucket,RemainingBudget,BudgetUsedPercent,DailyAverageSpend,FoodType,ExpenseGroup
+2026-03-01,Rent,Monthly Rent,2500,College,2500,No,UPI,Weekend,Sunday,March,9,High,Need,Large,2500,2710,0,Very High,7500,25,542,Other,Essential
+2026-03-01,Food,Breakfast - Idli,30,College,2470,No,UPI,Weekend,Sunday,March,9,High,Need,Small,2530,2710,0,Low,7470,25.3,542,Breakfast,Essential
+2026-03-01,Food,Lunch Meals,45,College,2400,No,UPI,Weekend,Sunday,March,9,High,Need,Medium,2600,2710,0,Low,7400,26,542,Lunch,Essential
+2026-03-01,Food,Dinner Dosa,40,College,2320,No,UPI,Weekend,Sunday,March,9,High,Need,Medium,2680,2710,0,Medium,7320,26.8,542,Dinner,Essential
+2026-03-01,Snacks,Fresh Juice,35,College,2290,No,UPI,Weekend,Sunday,March,9,Medium,Unwanted,Small,2710,2710,30,Low,7290,27.1,542,Other,Luxury
+2026-03-02,Food,Breakfast - Poori,40,College,2255,No,UPI,Weekday,Monday,March,10,High,Need,Small,2745,185,0,Low,7255,27.4,46.25,Breakfast,Essential
+2026-03-02,Food,Lunch Meals,45,College,2195,No,UPI,Weekday,Monday,March,10,High,Need,Medium,2805,185,0,Low,7195,28.1,46.25,Lunch,Essential
+2026-03-02,Food,Tea,15,College,2180,No,UPI,Weekday,Monday,March,10,High,Unwanted,Small,2820,185,15,Very Low,7180,28.2,46.25,Tea,Luxury
+2026-03-02,Food,Dinner Fried Rice,90,College,2105,No,UPI,Weekday,Monday,March,10,High,Need,Medium,2895,185,0,Low,7105,29,46.25,Dinner,Essential
+2026-03-03,Personal Care,Soap and Toothpaste,80,College,2015,No,UPI,Weekday,Tuesday,March,10,Medium,Need,Medium,2985,230,0,Medium,7015,29.8,57.5,Other,Essential
+2026-03-03,Snacks,Evening Snacks,30,College,1990,No,UPI,Weekday,Tuesday,March,10,Medium,Unwanted,Small,3010,230,25,Low,6990,30.1,57.5,Other,Luxury
+2026-03-03,Food,Lunch Meals,45,College,1935,No,UPI,Weekday,Tuesday,March,10,High,Need,Medium,3065,230,0,Low,6935,30.6,57.5,Lunch,Essential
+2026-03-03,Food,Dinner Chapati,40,College,1875,No,UPI,Weekday,Tuesday,March,10,High,Need,Medium,3125,230,0,Low,6875,31.2,57.5,Dinner,Essential
+2026-03-04,Food,Breakfast - Dosa,35,College,1845,No,UPI,Weekday,Wednesday,March,10,High,Need,Small,3155,200,0,Low,6845,31.6,50,Breakfast,Essential
+2026-03-04,Food,Lunch Meals,45,College,1780,No,UPI,Weekday,Wednesday,March,10,High,Need,Medium,3220,200,0,Low,6780,32.2,50,Lunch,Essential
+2026-03-04,Snacks,Fresh Juice,35,College,1755,No,UPI,Weekday,Wednesday,March,10,Medium,Unwanted,Small,3245,200,25,Low,6755,32.4,50,Other,Luxury
+2026-03-04,Food,Dinner Meals,45,College,1675,No,UPI,Weekday,Wednesday,March,10,High,Need,Medium,3325,200,0,Medium,6675,33.2,50,Dinner,Essential
+2026-03-05,Food,Dinner Biryani,100,College,1585,No,UPI,Weekday,Thursday,March,10,High,Need,Medium,3415,235,0,Medium,6585,34.2,47,Dinner,Essential
+2026-03-05,Food,Breakfast - Upma,30,College,1560,No,UPI,Weekday,Thursday,March,10,High,Need,Small,3440,235,0,Low,6560,34.4,47,Breakfast,Essential
+2026-03-05,Food,Tea,15,College,1545,No,UPI,Weekday,Thursday,March,10,High,Unwanted,Small,3455,235,15,Very Low,6545,34.6,47,Tea,Luxury
+2026-03-05,Food,Lunch Meals,45,College,1475,No,UPI,Weekday,Thursday,March,10,High,Need,Medium,3525,235,0,Low,6475,35.2,47,Lunch,Essential
+2026-03-05,Snacks,Bakery Snacks,35,College,1440,No,UPI,Weekday,Thursday,March,10,Medium,Unwanted,Small,3560,235,35,Low,6440,35.6,47,Other,Luxury
+2026-03-06,Travel,College to Native Bus,80,Native,1260,No,UPI,Weekday,Friday,March,10,High,Need,Medium,3740,270,0,Medium,6260,37.4,90,Other,Essential
+2026-03-06,Food,Lunch Meals,45,College,1200,No,UPI,Weekday,Friday,March,10,High,Need,Medium,3800,270,0,Low,6200,38,90,Lunch,Essential
+2026-03-06,Food,Breakfast - Idli,30,College,1170,No,UPI,Weekday,Friday,March,10,High,Need,Small,3830,270,0,Low,6170,38.3,90,Breakfast,Essential
+2026-03-07,Food,Lunch Meals,45,Native,1100,No,UPI,Weekend,Saturday,March,10,High,Need,Medium,3900,70,0,Low,6100,39,70,Lunch,Essential
+2026-03-08,Entertainment,Movie Ticket,150,Native,920,No,UPI,Weekend,Sunday,March,10,Low,Unwanted,Medium,4080,180,180,Medium,5920,40.8,180,Other,Luxury
+2026-03-09,Travel,Native to College Bus,80,College,740,No,UPI,Weekday,Monday,March,11,High,Need,Medium,4260,250,0,Medium,5740,42.6,125,Other,Essential
+2026-03-09,Food,Dinner Meals,45,College,670,No,UPI,Weekday,Monday,March,11,High,Need,Medium,4330,250,0,Low,5670,43.3,125,Dinner,Essential
+2026-03-10,Food,Breakfast - Dosa,35,College,645,No,UPI,Weekday,Tuesday,March,11,High,Need,Small,4355,180,0,Low,5645,43.6,45,Breakfast,Essential
+2026-03-10,Food,Lunch Meals,45,College,585,No,UPI,Weekday,Tuesday,March,11,High,Need,Medium,4415,180,0,Low,5585,44.2,45,Lunch,Essential
+2026-03-10,Snacks,Evening Snacks,30,College,565,No,UPI,Weekday,Tuesday,March,11,Medium,Unwanted,Small,4435,180,20,Very Low,5565,44.4,45,Other,Luxury
+2026-03-10,Food,Dinner Fried Rice,90,College,490,No,UPI,Weekday,Tuesday,March,11,High,Need,Medium,4510,180,0,Low,5490,45.1,45,Dinner,Essential
+2026-03-11,Food,Tea,15,College,475,No,UPI,Weekday,Wednesday,March,11,High,Unwanted,Small,4525,135,15,Very Low,5475,45.2,45,Tea,Luxury
+2026-03-11,Personal Care,Shampoo Sachets,20,College,425,No,UPI,Weekday,Wednesday,March,11,Medium,Need,Small,4575,135,0,Low,5425,45.8,45,Other,Essential
+2026-03-11,Food,Lunch Meals,45,College,355,No,UPI,Weekday,Wednesday,March,11,High,Need,Medium,4645,135,0,Low,5355,46.4,45,Lunch,Essential
+2026-03-12,Food,Breakfast - Appam,40,College,320,No,UPI,Weekday,Thursday,March,11,High,Need,Small,4680,215,0,Low,5320,46.8,53.75,Breakfast,Essential
+2026-03-12,Food,Lunch Meals,45,College,255,No,UPI,Weekday,Thursday,March,11,High,Need,Medium,4745,215,0,Low,5255,47.4,53.75,Lunch,Essential
+2026-03-12,Snacks,Fresh Juice,35,College,2225,Yes,UPI,Weekday,Thursday,March,11,Medium,Unwanted,Small,4775,215,30,Low,5225,47.8,53.75,Other,Luxury
+2026-03-12,Food,Dinner Noodles,80,College,2140,No,UPI,Weekday,Thursday,March,11,High,Need,Medium,4860,215,0,Medium,5140,48.6,53.75,Dinner,Essential
+2026-03-13,Food,Breakfast - Idli,30,College,2115,No,UPI,Weekday,Friday,March,11,High,Need,Small,4885,185,0,Low,5115,48.8,46.25,Breakfast,Essential
+2026-03-13,Food,Lunch Meals,45,College,2055,No,UPI,Weekday,Friday,March,11,High,Need,Medium,4945,185,0,Low,5055,49.4,46.25,Lunch,Essential
+2026-03-13,Snacks,Tea and Biscuit,20,College,2025,No,UPI,Weekday,Friday,March,11,Medium,Unwanted,Small,4975,185,30,Low,5025,49.8,46.25,Tea,Luxury
+2026-03-13,Food,Dinner Dosa,40,College,1955,No,UPI,Weekday,Friday,March,11,High,Need,Medium,5045,185,0,Low,4955,50.4,46.25,Dinner,Essential
+2026-03-14,Food,Dinner Meals,45,College,1865,No,UPI,Weekend,Saturday,March,11,High,Need,Medium,5135,370,0,Medium,4865,51.4,123.33,Dinner,Essential
+2026-03-14,Entertainment,College Movie Night,100,College,1665,No,UPI,Weekend,Saturday,March,11,Low,Unwanted,Medium,5335,370,200,Medium,4665,53.4,123.33,Other,Luxury
+2026-03-14,Food,Lunch Meals,45,College,1585,No,UPI,Weekend,Saturday,March,11,High,Need,Medium,5415,370,0,Medium,4585,54.2,123.33,Lunch,Essential
+2026-03-15,Snacks,Evening Snacks,30,College,1555,No,UPI,Weekend,Sunday,March,11,Medium,Unwanted,Small,5445,210,30,Low,4555,54.4,52.5,Other,Luxury
+2026-03-15,Food,Dinner Chapati,40,College,1475,No,UPI,Weekend,Sunday,March,11,High,Need,Medium,5525,210,0,Medium,4475,55.2,52.5,Dinner,Essential
+2026-03-15,Food,Breakfast - Dosa,35,College,1445,No,UPI,Weekend,Sunday,March,11,High,Need,Small,5555,210,0,Low,4445,55.6,52.5,Breakfast,Essential
+2026-03-15,Food,Lunch Meals,45,College,1375,No,UPI,Weekend,Sunday,March,11,High,Need,Medium,5625,210,0,Low,4375,56.2,52.5,Lunch,Essential
+2026-03-16,Utilities,Mobile Recharge,249,College,1225,No,UPI,Weekday,Monday,March,12,High,Need,Medium,5775,295,0,Medium,4225,57.8,73.75,Other,Essential
+2026-03-16,Food,Lunch Meals,45,College,1165,No,UPI,Weekday,Monday,March,12,High,Need,Medium,5835,295,0,Low,4165,58.4,73.75,Lunch,Essential
+2026-03-16,Food,Dinner Meals,45,College,1095,No,UPI,Weekday,Monday,March,12,High,Need,Medium,5905,295,0,Low,4095,59,73.75,Dinner,Essential
+2026-03-16,Food,Tea,15,College,1080,No,UPI,Weekday,Monday,March,12,High,Unwanted,Small,5920,295,15,Very Low,4080,59.2,73.75,Tea,Luxury
+2026-03-17,Food,Breakfast - Poori,40,College,1055,No,UPI,Weekday,Tuesday,March,12,High,Need,Small,5945,210,0,Low,4055,59.4,52.5,Breakfast,Essential
+2026-03-17,Food,Lunch Meals,45,College,990,No,UPI,Weekday,Tuesday,March,12,High,Need,Medium,6010,210,0,Low,3990,60.1,52.5,Lunch,Essential
+2026-03-17,Snacks,Fresh Juice,35,College,970,No,UPI,Weekday,Tuesday,March,12,Medium,Unwanted,Small,6030,210,20,Very Low,3970,60.3,52.5,Other,Luxury
+2026-03-17,Personal Care,Hair Oil and Face Wash,120,College,870,No,UPI,Weekday,Tuesday,March,12,Medium,Need,Medium,6130,210,0,Medium,3870,61.3,52.5,Other,Essential
+2026-03-18,Snacks,Evening Snacks,30,College,830,No,UPI,Weekday,Wednesday,March,12,Medium,Unwanted,Small,6170,230,40,Low,3830,61.7,57.5,Other,Luxury
+2026-03-18,Food,Dinner Biryani,100,College,740,No,UPI,Weekday,Wednesday,March,12,High,Need,Medium,6260,230,0,Medium,3740,62.6,57.5,Dinner,Essential
+2026-03-18,Food,Breakfast - Idli,30,College,710,No,UPI,Weekday,Wednesday,March,12,High,Need,Small,6290,230,0,Low,3710,62.9,57.5,Breakfast,Essential
+2026-03-18,Food,Lunch Meals,45,College,640,No,UPI,Weekday,Wednesday,March,12,High,Need,Medium,6360,230,0,Low,3640,63.6,57.5,Lunch,Essential
+2026-03-19,Food,Tea,15,College,625,No,UPI,Weekday,Thursday,March,12,High,Unwanted,Small,6375,185,15,Very Low,3625,63.7,46.25,Tea,Luxury
+2026-03-19,Food,Lunch Meals,45,College,560,No,UPI,Weekday,Thursday,March,12,High,Need,Medium,6440,185,0,Low,3560,64.4,46.25,Lunch,Essential
+2026-03-19,Food,Dinner Dosa,40,College,480,No,UPI,Weekday,Thursday,March,12,High,Need,Medium,6520,185,0,Medium,3480,65.2,46.25,Dinner,Essential
+2026-03-19,Snacks,Bakery Snacks,35,College,455,No,UPI,Weekday,Thursday,March,12,Medium,Unwanted,Small,6545,185,25,Low,3455,65.4,46.25,Other,Luxury
+2026-03-20,Food,Breakfast - Dosa,35,College,430,No,UPI,Weekday,Friday,March,12,High,Need,Small,6570,285,0,Low,3430,65.7,95,Breakfast,Essential
+2026-03-20,Food,Lunch Meals,45,College,370,No,UPI,Weekday,Friday,March,12,High,Need,Medium,6630,285,0,Low,3370,66.3,95,Lunch,Essential
+2026-03-20,Travel,College to Native Bus,80,Native,2170,Yes,UPI,Weekday,Friday,March,12,High,Need,Medium,6830,285,0,Medium,3170,68.3,95,Other,Essential
+2026-03-21,Food,Lunch Meals,45,Native,2090,No,UPI,Weekend,Saturday,March,12,High,Need,Medium,6910,80,0,Medium,3090,69.1,80,Lunch,Essential
+2026-03-22,Entertainment,Movie Ticket,150,Native,1870,No,UPI,Weekend,Sunday,March,12,Low,Unwanted,Large,7130,220,220,High,2870,71.3,220,Other,Luxury
+2026-03-23,Travel,Native to College Bus,80,College,1670,No,UPI,Weekday,Monday,March,13,High,Need,Medium,7330,350,0,Medium,2670,73.3,116.67,Other,Essential
+2026-03-23,Food,Lunch Meals,45,College,1600,No,UPI,Weekday,Monday,March,13,High,Need,Medium,7400,350,0,Low,2600,74,116.67,Lunch,Essential
+2026-03-23,Food,Dinner Meals,45,College,1520,No,UPI,Weekday,Monday,March,13,High,Need,Medium,7480,350,0,Medium,2520,74.8,116.67,Dinner,Essential
+2026-03-24,Food,Dinner Fried Rice,90,College,1445,No,UPI,Weekday,Tuesday,March,13,High,Need,Medium,7555,190,0,Low,2445,75.6,47.5,Dinner,Essential
+2026-03-24,Snacks,Evening Snacks,30,College,1420,No,UPI,Weekday,Tuesday,March,13,Medium,Unwanted,Small,7580,190,25,Low,2420,75.8,47.5,Other,Luxury
+2026-03-24,Food,Breakfast - Idli,30,College,1395,No,UPI,Weekday,Tuesday,March,13,High,Need,Small,7605,190,0,Low,2395,76,47.5,Breakfast,Essential
+2026-03-24,Food,Lunch Meals,45,College,1330,No,UPI,Weekday,Tuesday,March,13,High,Need,Medium,7670,190,0,Low,2330,76.7,47.5,Lunch,Essential
+2026-03-25,Food,Lunch Meals,45,College,1260,No,UPI,Weekday,Wednesday,March,13,High,Need,Medium,7740,165,0,Low,2260,77.4,55,Lunch,Essential
+2026-03-25,Food,Tea,15,College,1245,No,UPI,Weekday,Wednesday,March,13,High,Unwanted,Small,7755,165,15,Very Low,2245,77.6,55,Tea,Luxury
+2026-03-25,Personal Care,Laundry Soap and Razor,70,College,1165,No,UPI,Weekday,Wednesday,March,13,Medium,Need,Medium,7835,165,0,Medium,2165,78.4,55,Other,Essential
+2026-03-26,Food,Breakfast - Upma,30,College,1135,No,UPI,Weekday,Thursday,March,13,High,Need,Small,7865,200,0,Low,2135,78.6,50,Breakfast,Essential
+2026-03-26,Food,Lunch Meals,45,College,1075,No,UPI,Weekday,Thursday,March,13,High,Need,Medium,7925,200,0,Low,2075,79.2,50,Lunch,Essential
+2026-03-26,Snacks,Fresh Juice,35,College,1050,No,UPI,Weekday,Thursday,March,13,Medium,Unwanted,Small,7950,200,25,Low,2050,79.5,50,Other,Luxury
+2026-03-26,Food,Dinner Noodles,80,College,965,No,UPI,Weekday,Thursday,March,13,High,Need,Medium,8035,200,0,Medium,1965,80.4,50,Dinner,Essential
+2026-03-27,Entertainment,Weekend Game Zone,150,College,815,No,UPI,Weekday,Friday,March,13,Low,Unwanted,Medium,8185,310,150,Medium,1815,81.8,103.33,Other,Luxury
+2026-03-27,Food,Lunch Meals,45,College,745,No,UPI,Weekday,Friday,March,13,High,Need,Medium,8255,310,0,Low,1745,82.6,103.33,Lunch,Essential
+2026-03-27,Food,Dinner Biryani,100,College,655,No,UPI,Weekday,Friday,March,13,High,Need,Medium,8345,310,0,Medium,1655,83.4,103.33,Dinner,Essential
+2026-03-28,Snacks,Evening Snacks,30,College,605,No,UPI,Weekend,Saturday,March,13,Medium,Unwanted,Small,8395,165,50,Low,1605,84,55,Other,Luxury
+2026-03-28,Food,Breakfast - Dosa,35,College,570,No,UPI,Weekend,Saturday,March,13,High,Need,Small,8430,165,0,Low,1570,84.3,55,Breakfast,Essential
+2026-03-28,Food,Lunch Meals,45,College,490,No,UPI,Weekend,Saturday,March,13,High,Need,Medium,8510,165,0,Medium,1490,85.1,55,Lunch,Essential
+2026-03-29,Food,Lunch Meals,45,College,415,No,UPI,Weekend,Sunday,March,13,High,Need,Medium,8585,160,0,Low,1415,85.9,80,Lunch,Essential
+2026-03-29,Food,Dinner Chapati,40,College,330,No,UPI,Weekend,Sunday,March,13,High,Need,Medium,8670,160,0,Medium,1330,86.7,80,Dinner,Essential
+2026-03-30,Food,Dinner Meals,45,College,2240,Yes,UPI,Weekday,Monday,March,14,High,Need,Medium,8760,300,0,Medium,1240,87.6,75,Dinner,Essential
+2026-03-30,Food,Breakfast - Idli,30,College,2215,No,UPI,Weekday,Monday,March,14,High,Need,Small,8785,300,0,Low,1215,87.8,75,Breakfast,Essential
+2026-03-30,Food,Lunch Meals,45,College,2150,No,UPI,Weekday,Monday,March,14,High,Need,Medium,8850,300,0,Low,1150,88.5,75,Lunch,Essential
+2026-03-30,Personal Care,Haircut,150,College,2030,No,UPI,Weekday,Monday,March,14,Medium,Need,Medium,8970,300,0,Medium,1030,89.7,75,Other,Essential
+2026-03-31,Food,Lunch Meals,45,College,1960,No,UPI,Weekday,Tuesday,March,14,High,Need,Medium,9040,195,0,Low,960,90.4,48.75,Lunch,Essential
+2026-03-31,Snacks,Bakery Snacks,35,College,1930,No,UPI,Weekday,Tuesday,March,14,Medium,Unwanted,Small,9070,195,30,Low,930,90.7,48.75,Other,Luxury
+2026-03-31,Food,Tea,15,College,1915,No,UPI,Weekday,Tuesday,March,14,High,Unwanted,Small,9085,195,15,Very Low,915,90.8,48.75,Tea,Luxury
+2026-03-31,Food,Dinner Dosa,40,College,1835,No,UPI,Weekday,Tuesday,March,14,High,Need,Medium,9165,195,0,Medium,835,91.6,48.75,Dinner,Essential
