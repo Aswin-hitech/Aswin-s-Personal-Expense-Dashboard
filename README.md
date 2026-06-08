@@ -92,6 +92,3 @@ KIT - KalaignarKarunanidhi Institute of Technology
 
 ---
 
-## Project Status
-
-✅ Completed
